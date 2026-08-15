@@ -1,0 +1,45 @@
+{
+  "localizedNames" : {
+    "es" : "",
+    "pt" : "",
+    "zh" : "",
+    "it" : "",
+    "ru" : "",
+    "en" : "",
+    "ja" : "",
+    "de" : "",
+    "fr" : ""
+  },
+  "color" : "#0A84FF",
+  "entry" : "index.tsx",
+  "icon" : "sparkles",
+  "permissions" : null,
+  "localizedDescriptions" : {
+    "it" : "",
+    "en" : "",
+    "ja" : "",
+    "de" : "",
+    "fr" : "",
+    "ru" : "",
+    "es" : "",
+    "pt" : "",
+    "zh" : ""
+  },
+  "version" : "1.0.0",
+  "author" : {
+    "email" : "svip888888888888888888888@gmail.com",
+    "name" : "冠希",
+    "homepage" : "https:\/\/github.com\/Lu6618\/ScriptingApp"
+  },
+  "remoteResource" : null,
+  "intentInputTypes" : [
+
+  ],
+  "contributors" : [
+
+  ],
+  "name" : "AI 生图",
+  "description" : "利用开源项目做的文生图APP",
+  "runInApp" : true,
+  "iconImage" : ""
+}
